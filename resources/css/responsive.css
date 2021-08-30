@@ -1,0 +1,343 @@
+@media only screen and (max-width: 1080px){
+    .logo{
+        margin-left: 2rem;
+    }
+    h1{
+        width: 75rem;
+    }
+    .about-us-container {
+        margin-left: 3rem;
+        margin-right: 0;
+    }
+    .portfolio-img-sec {
+        width: 50%;
+        margin-left: 0;
+    }
+    .portfolio-img-sec img {
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 1024px){
+	header{
+		height:50vh;
+	}
+	.mobile-menu span{
+		display:block;
+	}
+    .main-nav{
+        display: none;
+    }
+    html{
+        font-size: 45%;
+    }
+    .r-box{
+        width: 47%;
+    }
+    .imgtag img{
+        float: none;
+        margin-left: 20rem;
+        margin-bottom: 2rem;    
+    }
+    .about-us-container{
+        width: 40%;
+    }
+    .abus-fl-p h3{
+        text-align: center;
+    }
+    .abus-fl-p span{
+        margin-left: 20rem;
+    }
+    footer form{
+        width: 100%;
+    }
+    .social-link {
+        margin: 6rem 10rem;
+    }
+    .ashley-greenee {
+        width: 50rem;
+    }
+    .form-input-msge input {
+        width: 100%;
+        padding: 1.4rem 0;
+        margin-left: 0rem;
+        margin-top: 1rem;
+    }
+    .form-input-msge, .textarea {
+        margin-left: 0rem;
+        font-size: 1.5rem;
+        width: 100%;
+    }
+    .textarea textarea {
+        width: 100%;
+    }
+    input[type="submit"] {
+        font-size: 4rem;
+        border-radius: .5rem;
+    }
+    .portfolio-img-sec {
+        width: 50%;
+        margin-left: 0;
+    }
+    .portfolio-img-sec img {
+        width: 80%;
+    }
+
+
+}
+@media only screen and (max-width:992px){
+    h1{
+        font-size: 3.9rem;
+		width:940px;
+    }
+    .social-link {
+        margin: 6rem 10rem;
+    }
+    .ashley-greenee {
+        width: 44rem;
+    }
+    .portfolio-img-sec {
+        width: 50%;
+        margin-left: 0;
+    }
+    .portfolio-img-sec img {
+        width: 80%;
+    }
+	.team-p {
+    margin-left: 13rem;
+	}
+	.overlay .closebtn {
+    margin-left: 92rem;
+	}
+    .form-input-msge input {
+        width: 90%;
+    }
+	.textarea textarea {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width:900px){
+	h1{
+		font-size:4.3rem;
+        width: 850px;
+	}
+	.team-p{
+    margin-left: 13rem;
+	}
+	.skills-section .box {
+    text-align: center;
+	}
+	.box{
+		width:27rem;
+	}
+	#team .col.span_1_to_4 {
+    width: 47%;
+	}
+	.overlay .closebtn {
+    margin-left: 100rem;
+	}
+	.overlay a {
+        font-size: 5rem;
+    }
+    .form-input-msge input {
+        width: 90%;
+    }
+	.textarea textarea {
+        width: 90%;
+    }
+}
+@media only screen and (max-width:768px){
+    h1 {
+        font-size: 3rem;
+        width: 740px;
+    }
+    .social-link {
+    margin: 5rem 7rem;
+    }
+    .ashley-greenee {
+    width: 34rem;
+    text-align: center;
+    }
+    .portfolio-img-sec {
+        width: 50%;
+        margin-left: 0;
+    }
+    .portfolio-img-sec img {
+        width: 80%;
+    }
+    .skills-section .box {
+        margin-top: 3.5rem;
+        width: 47%;
+        text-align: center;
+    }
+    .social-lk li {
+        float: left;
+        margin-left: 2.5rem;
+        font-size: 3.5rem;
+        width: 21%;
+        line-height: 5rem;
+        text-align: center;
+    }
+    .social-lk ul {
+        margin: 0;
+    }
+    h3.rocket {
+        width: 36rem;
+    }
+	.overlay .closebtn {
+    margin-left: 70rem;
+	}
+	.box {
+    width: 15rem;
+	}
+	.box p {
+    font-size: 1.6rem;
+    width: 13rem;
+	text-align:center
+	}
+	.services-icon {
+    margin-left: 5rem;
+	}
+	.overlay .closebtn {
+    margin-left: 70rem;
+	}
+	.overlay a {
+    margin-left: -13rem;
+	}
+    .form-input-msge input {
+        width: 90%;
+    }
+	.textarea textarea {
+        width: 90%;
+    }
+	
+	
+	
+}
+
+@media only screen and (max-width:600px){
+	h1{
+		font-size :2rem;
+        width: 560px;
+	}
+	#service img {
+    width: 5rem;
+}
+	#service h3{
+		font-size:1.6rem;
+	}
+	h3.rocket {
+    width: 14rem;
+	}
+	.box p {
+    width: 26rem;
+    margin-left: 0rem;
+	}
+	.social-link {
+    margin: 5rem 0rem;
+	}
+	svg.radial-progress {
+    max-width: 160px;
+	}
+	h2 {
+    font-size: 3rem;
+	}
+	.imgtag img {
+		margin-left:11rem;
+	}
+	.about-us-container {
+    width: 47%;
+	margin-right: 0rem;
+	}
+	.abus-fl-p span {
+    margin-left: 14rem;
+	}
+	.footer {
+    background: #3C5499;
+	}
+	.overlay .closebtn {
+    margin-left: 52rem;
+	}
+	.overlay a {
+    margin-left: -24rem;
+	}
+    .about-us-container {
+        width: 41%;
+        margin-right: 0rem;
+    }
+    .form-input-msge input {
+        width: 90%;
+    }
+	.textarea textarea {
+        width: 90%;
+    }
+	
+}
+@media only screen and (max-width:480px){
+    h1{
+        width: 430px;
+    }
+	section {
+    padding: 3rem 0;
+	}
+	#service img {
+    width: 5rem;
+}
+	#service h3{
+		font-size:1.6rem;
+	}
+	h3.rocket {
+    width: 14rem;
+	}
+	p.little-description {
+    margin-bottom: 3.8rem;
+	}
+	.box {
+    width:25rem;
+	}
+	.box p {
+    width: 26rem;
+    margin-left: -2rem;
+    padding: 1rem 2rem;
+	}
+	#team .col.span_1_to_4 {
+    width: 50%;
+	}
+	p.little-description {
+    margin-bottom: 0rem;
+	}
+	.team-member {
+    height: 10rem;
+    width: 10rem;
+	}
+	h3{
+		margin-top:0;
+	}
+	.overlay .closebtn {
+    margin-left: 40rem;
+	}
+	.overlay a {
+    margin-left: -30rem;
+	}
+	.overlay {
+    height: 80%;
+	}
+    .form-input-msge input {
+        width: 90%;
+    }
+	.textarea textarea {
+        width: 90%;
+    }
+    html {
+        font-size: 41%;
+    }
+	
+}
+@media only screen and (max-width:420px){
+	h1 {
+        width: 410px;
+    }
+    html {
+        font-size: 36%;
+    }
+}
